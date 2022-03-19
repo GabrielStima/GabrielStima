@@ -22,6 +22,6 @@
 
 - 🔭 I'm currently working at a software house in Brazil.
 - ⚡ Facts about me:
-  - I love video game;
-  - I have been studying programming since I was 12 years old;
-  - I'm a volunteer programming teacher;
+  - 🎮 I love video game;
+  - 🖥️ I have been studying programming since I was 12 years old;
+  - 👨🏽‍🏫 I'm a volunteer programming teacher;
