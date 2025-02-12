@@ -1,8 +1,7 @@
-## 😁 Hi there 🖖 my name is Gabriel Stimamiglio a Full Stack Developer in progress!
+## 😁 Hi there 🖖 my name is Gabriel Stimamiglio a Full Stack Developer!
 
 <div align="center">
   <a href="https://github.com/GabrielStima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielStima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielStima&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
