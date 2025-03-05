@@ -1,6 +1,4 @@
-## 😁 Hi there 🖖 my name is Gabriel Stimamiglio a Full Stack Developer!
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img width="100%" src="https://github.com/user-attachments/assets/1e9c551a-4d14-4130-951a-d9ab1496f46d">
   
 ### My core skills:
 <div align="left">
