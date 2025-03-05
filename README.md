@@ -1,4 +1,6 @@
 ## 😁 Hi there 🖖 my name is Gabriel Stimamiglio a Full Stack Developer!
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
   
 ### My core skills:
 <div align="left">
@@ -29,9 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
-##
-
-- ⚡ Facts about me:
+### ⚡ Facts about me:
   - 🎮 I love video game;
   - 🖥️ I have been studying programming since I was 12 years old;
   - 👨🏽‍🏫 I'm a volunteer programming teacher;
